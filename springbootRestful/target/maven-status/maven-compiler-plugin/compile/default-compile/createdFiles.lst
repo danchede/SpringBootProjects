@@ -1,0 +1,7 @@
+com\ifox\springbootRestful\service\Impl\CityServiceImpl.class
+com\ifox\springbootRestful\Application.class
+com\ifox\App.class
+com\ifox\springbootRestful\service\CityService.class
+com\ifox\springbootRestful\entity\City.class
+com\ifox\springbootRestful\controller\CityController.class
+com\ifox\springbootRestful\dao\CityDao.class
